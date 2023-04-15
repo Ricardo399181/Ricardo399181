@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ricardo+Ferreira;I'm+29+years+old;I+from+Brasil,+GO;I+study+Development+With+Java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>  
-  <a href="https://github.com/Ricardo399181">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Ricardo399181&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&theme=onedark&includ_all_commits=true&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Ferreira github stats" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo399181&layout=compact&hide_border=false&langs_count=16&theme=dracula&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <a href="https://github.com/Ricardo399181">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo399181&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
 <div style="display: inline_block"><br>
