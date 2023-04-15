@@ -1,34 +1,34 @@
-name: Snake animation
+name: Generate Snake game from GitHub contribution grid
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Executa a cada hora
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate-snake-game:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: Checkout code
       uses: actions/checkout@v2
-    - name: Gerar animação de cobra
-      uses: Platane/snk@latest
+    - name: Generate Snake game
+      id: generate-snake
+      uses: Ricardo399181/github-snake-game@v1.0.1
       with:
-        github_user_name: Ricardo399181 # substitua por seu nome de usuário do GitHub
-        outputs:
+        github_user_name: ${{ github.actor }}
+        outputs: |
           dist/github-contribution-grid-snake.svg
           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          dist/github-contribution-grid-snake.gif?color_snake=orange&color_bg=333333&color_dots=1A1B27
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v7
+          dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    - name: Ensure the generated file exists
+      run: |
+        ls dist
+        test -f dist/github-contribution-grid-snake.svg
+        test -f dist/github-contribution-grid-snake-dark.svg
+        test -f dist/github-contribution-grid-snake.gif
+    - name: Deploy the generated files to gh-pages branch
+      uses: peaceiris/actions-gh-pages@v3.8.16
       with:
-        message: "Adiciona animação da cobra ao perfil do GitHub"
-        author_name: Ricardo ferreira # substitua por seu nome
-        author_email: pauloricardo399181@gmail.com # substitua por seu endereço de email
-        signoff: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.5.0
-      with:
-        branch: main # substitua pela sua branch principal
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
+        publish_branch: gh-pages
