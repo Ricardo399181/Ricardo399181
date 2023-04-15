@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "pauloricardo399181@gmail.com"
+          git config --global user.name "Ricardo ferreira"
           git add dist
           git commit -m "Update contribution grid snake animation"
           git push origin HEAD:output
