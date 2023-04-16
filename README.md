@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ricardo+Ferreira;I'm+29+years+old;I+from+Brasil,+GO;I+study+Development+With+Java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -27,14 +27,14 @@
  <a href = "mailto:pauloricardo399181@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_ricardo.f.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
-
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ricardo399181&theme=gotham)
    
-   ##
- 
+  ![Snake animation](https://github.com/Ricardo399181/Ricardo399181/blob/output/github-contribution-grid-snake.svg)
+   
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ricardo399181&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
+   
+  
    
    <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -43,7 +43,7 @@
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
    
-   ![Snake animation](https://github.com/Ricardo399181/Ricardo399181/blob/output/github-contribution-grid-snake.svg)
+   
   
    
    
