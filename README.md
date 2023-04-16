@@ -28,15 +28,22 @@
   <a href="https://instagram.com/_ricardo.f.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
 
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ricardo399181&theme=gotham)
+   
    ##
  
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ricardo399181&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
+   
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ricardo399181}/count.svg" /></p> 
+<br></div>
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
    
    
-   ![Snake animation](https://github.com/Ricardo399181/Ricardo399181/blob/output/github-contribution-grid-snake.svg)
+  
    
    
