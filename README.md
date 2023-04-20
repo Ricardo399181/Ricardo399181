@@ -10,7 +10,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo399181&show_icons=true&theme=react&include_all_commits&count_private=true" alt="Ricardo Ferreira github stats"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo399181&layout=compact&langs_count=7&theme=react&count_private=true" />
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+ 
 </div>
 
 <div style="display: inline_block"><br>
