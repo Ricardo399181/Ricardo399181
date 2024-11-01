@@ -42,7 +42,7 @@
   <a href="https://instagram.com/_ricardo.f.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
    
-  ![Snake animation](https://github.com/Ricardo399181/Ricardo399181/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Ricardo399181/Ricardo399181/blob/output/github-snake-dark.svg)
    
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ricardo399181&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
